@@ -1,7 +1,7 @@
 
-# Vision Transformer
+# Vision Transformer 
 
-This package provides an implementation of the Vision Transformer (ViT) in TensorFlow.
+This package provides an implementation of the Vision Transformer (ViT) in TensorFlow first version.
 
 ## Model Overview
 
