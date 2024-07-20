@@ -1,5 +1,5 @@
 
-# Vision Transformer 
+# Vision Transformer (tensorflow package)
 
 This package provides an implementation of the Vision Transformer (ViT) in TensorFlow first version.
 
