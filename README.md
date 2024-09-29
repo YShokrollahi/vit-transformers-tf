@@ -1,5 +1,5 @@
 
-# Vision Transformer (tensorflow package ready to use)
+# Vision Transformer (tensorflow package ready to use) and fine tune
 
 This package provides an implementation of the Vision Transformer (ViT) in TensorFlow first version.
 
